@@ -24,8 +24,8 @@ Split the line using .split
 Count the length of the word and print it
 ## PROGRAM:
 ``` python
-#Developed by
-#ROLL NO : 212221230123
+#Developed by : MUKESH V
+#ROLL NO : 22008323
 import sys
 count=0
 with open(sys.argv[1],'r') as f:
